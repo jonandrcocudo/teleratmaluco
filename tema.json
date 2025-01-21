@@ -22,7 +22,7 @@
     "BACKGROUND_MOBILE_SECONDARY": ["#080228", "#080228", "#080228"],
     "BACKGROUND_MESSAGE_HOVER": ["rgba(255, 255, 255, 0.02)", "#FFFFFF"],
     "BACKGROUND_MODIFIER_HOVER": [
-      "rgba(255, 255, 255, 0.02)",
+      "rgba(0, 0, 0, 0.02)",
       "hsla(214, 9.9%, 50.4%, 0.08)"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
